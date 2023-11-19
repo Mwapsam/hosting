@@ -12,3 +12,4 @@ wp-config.php
 # Ignore core WordPress directories
 /wp-admin/
 /wp-includes/
+node_modules

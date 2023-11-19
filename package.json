@@ -1,0 +1,35 @@
+{
+  "name": "hosting",
+  "version": "1.0.0",
+  "description": "Hosting website",
+  "main": "src/index.js",
+  "devDependencies": {
+    "@wordpress/scripts": "^5.1.0"
+  },
+  "scripts": {
+    "build": "wp-scripts build",
+    "check-engines": "wp-scripts check-engines",
+    "check-licenses": "wp-scripts check-licenses",
+    "lint:css": "wp-scripts lint-style",
+    "lint:js": "wp-scripts lint-js",
+    "lint:pkg-json": "wp-scripts lint-pkg-json",
+    "start": "wp-scripts start",
+    "test:e2e": "wp-scripts test-e2e",
+    "test:unit": "wp-scripts test-unit-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mwapsam/hosting.git"
+  },
+  "keywords": [
+    "hosting",
+    "react",
+    "wordpress"
+  ],
+  "author": "Samuel Chimfwembe",
+  "license": "1 GNU V2+, MIT",
+  "bugs": {
+    "url": "https://github.com/Mwapsam/hosting/issues"
+  },
+  "homepage": "https://github.com/Mwapsam/hosting#readme"
+}
