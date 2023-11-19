@@ -1,0 +1,19 @@
+Sat Nov 18 17:10:40: FUNCTION: rp_install|LINE: 6948| MSG: start install
+Sat Nov 18 17:10:42: FUNCTION: rp_install|LINE: 6983| MSG: insert/update pages complete
+Sat Nov 18 17:10:42: FUNCTION: rp_install|LINE: 7002| MSG: update htaccess rules and wp link structure
+Sat Nov 18 17:14:17: FUNCTION: rp_install_footer_links|LINE: 7109| MSG: start footer links install
+Sat Nov 18 17:14:17: FUNCTION: rp_init_function|LINE: 183| MSG: get rp store texts
+Sat Nov 18 17:14:20: FUNCTION: rp_init_function|LINE: 187| MSG: call _rp_replace_references @@
+Sat Nov 18 17:14:21: FUNCTION: rp_init_function|LINE: 192| MSG: begin store texts pages insert
+Sat Nov 18 17:14:23: FUNCTION: rp_init_function|LINE: 261| MSG: set home page
+Sat Nov 18 17:14:23: FUNCTION: rp_update_rules|LINE: 7170| MSG: start htaccess update for the order
+Sat Nov 18 17:14:23: FUNCTION: rp_update_rules|LINE: 7247| MSG: htaccess is writable
+Sat Nov 18 17:14:23: FUNCTION: rp_update_rules|LINE: 7251| MSG: htaccess without ResellersPanel entries, put order entries
+Sat Nov 18 17:15:01: FUNCTION: rp_install_footer_links|LINE: 7109| MSG: start footer links install
+Sat Nov 18 17:15:01: FUNCTION: rp_init_function|LINE: 183| MSG: get rp store texts
+Sat Nov 18 17:15:01: FUNCTION: rp_init_function|LINE: 187| MSG: call _rp_replace_references @@
+Sat Nov 18 17:15:01: FUNCTION: rp_init_function|LINE: 192| MSG: begin store texts pages insert
+Sat Nov 18 17:15:03: FUNCTION: rp_init_function|LINE: 261| MSG: set home page
+Sat Nov 18 17:15:03: FUNCTION: rp_update_rules|LINE: 7170| MSG: start htaccess update for the order
+Sat Nov 18 17:15:03: FUNCTION: rp_update_rules|LINE: 7247| MSG: htaccess is writable
+Sat Nov 18 17:15:03: FUNCTION: rp_update_rules|LINE: 7255| MSG: htaccess with ResellersPanel entries, put order entries

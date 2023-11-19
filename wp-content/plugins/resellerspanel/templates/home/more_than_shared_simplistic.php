@@ -1,0 +1,11 @@
+<?php if($price_from_dedicated or $price_from_semi_dedicated or $price_from_vps_kvm or $price_from_vps_openvz){?>
+<div id="other-services">
+    <h2><?php echo $title;?></h2>
+    <ul>
+	  <?php if($price_from_dedicated){?><li><a href="<?php echo $page_url_dedicated;?>">Dedicated Servers</a> - from <strong><?php echo $price_from_dedicated;?></strong> /mo</li><?php }?>
+	  <?php if($price_from_semi_dedicated){?><li><a href="<?php echo $page_url_semi_dedicated;?>">Semi-Dedicated</a> - from <strong><?php echo $price_from_semi_dedicated;?></strong> /mo</li><?php }?>
+	  <?php if($price_from_vps_kvm){?><li><a href="<?php echo $page_url_vps_kvm;?>">KVM VPS</a> - from <strong><?php echo $price_from_vps_kvm;?></strong> /mo</li><?php }?>
+	  <?php if($price_from_vps_openvz){?><li><a href="<?php echo $page_url_vps_openvz;?>">OpenVZ VPS</a> - from <strong><?php echo $price_from_vps_openvz;?></strong> /mo</li><?php }?>
+    </ul>
+</div>
+<?php }?>

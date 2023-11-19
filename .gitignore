@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore user-uploaded files
+wp-content/uploads/
+
+# Ignore sensitive configuration files
+wp-config.php
+
+# Ignore server-specific configurations
+.htaccess
+
+# Ignore core WordPress directories
+/wp-admin/
+/wp-includes/
